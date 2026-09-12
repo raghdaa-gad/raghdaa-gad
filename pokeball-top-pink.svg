@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="900" height="460">
+  <!-- True half-circle dome (radius = width/2) with a notch cut out for the center button -->
+  <path d="M 10 450
+           A 440 440 0 0 1 890 450
+           L 890 450
+           L 620 450
+           A 170 170 0 0 0 280 450
+           Z"
+        fill="#ff69b4" stroke="#000000" stroke-width="14" stroke-linejoin="round"/>
+
+  <!-- Center button rings -->
+  <circle cx="450" cy="450" r="88" fill="#ffffff" stroke="#000000" stroke-width="14"/>
+  <circle cx="450" cy="450" r="54" fill="#ffffff" stroke="#000000" stroke-width="10"/>
+</svg>
